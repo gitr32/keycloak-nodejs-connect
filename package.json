@@ -35,7 +35,7 @@
     "jwk-to-pem": "^2.0.0"
   },
   "devDependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "blue-tape": "^1.0.0",
     "body-parser": "^1.13.3",
     "chromedriver": "^74.0.0",
